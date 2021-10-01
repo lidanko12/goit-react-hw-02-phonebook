@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import ContactForm from './ContactForm';
+import ContactForm from './components/ContactForm';
 import shortid from 'shortid';
 import s from './App.module.css'
-import ContactList from './ContactList'
-import Filter from './Filter'
+import ContactList from './components/ContactList'
+import Filter from './components/Filter'
 
 
 
